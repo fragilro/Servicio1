@@ -13,8 +13,8 @@
   "url": "http://ashs.picsl.upenn.edu",
   "tags": [
     {
-      "name": "T1-MRI",
-      "type": "NifTi",
+      "name": "NifTi",
+      "type": "MainImage",
       "hint": "Imagen NifTi a la que se quiere aplicar el modelo de segmentación",
       "required": true
     }
